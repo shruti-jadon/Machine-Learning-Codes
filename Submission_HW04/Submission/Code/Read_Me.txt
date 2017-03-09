@@ -1,0 +1,1 @@
+Pass the path where Folder HW04 is saved to both run_me_clustering.py and run_me_denoise.py
